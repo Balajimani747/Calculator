@@ -21,7 +21,5 @@ function send(i)
         case '=': result=eval(x.value);
                   x.value=result;
         break;
-
-
     }
 }
